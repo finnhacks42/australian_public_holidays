@@ -1,0 +1,923 @@
+Date,State,Holiday
+2008-01-01,qld,New Year's Day
+2008-01-26,qld,Australia Day
+2008-03-21,qld,Good Friday
+2008-03-24,qld,Easter Monday
+2008-04-25,qld,Anzac Day
+2008-06-09,qld,Queens Birthday
+2008-12-25,qld,Christmas Day
+2008-12-26,qld,Boxing Day
+2009-01-01,qld,New Year's Day
+2009-01-26,qld,Australia Day
+2009-04-10,qld,Good Friday
+2009-04-13,qld,Easter Monday
+2009-04-25,qld,Anzac Day
+2009-06-08,qld,Queens Birthday
+2009-12-25,qld,Christmas Day
+2009-12-28,qld,Boxing Day (in lieu)
+2010-01-01,qld,New Year's Day
+2010-01-26,qld,Australia Day
+2010-04-02,qld,Good Friday
+2010-04-05,qld,Easter Monday
+2010-04-25,qld,Anzac Day
+2010-06-14,qld,Queens Birthday
+2010-12-25,qld,Christmas Day
+2010-12-26,qld,Boxing Day
+2010-12-27,qld,Christmas Holiday
+2010-12-28,qld,Christmas Holiday
+2011-01-03,qld,New Years Day (in lieu)
+2011-01-26,qld,Australia Day
+2011-04-22,qld,Good Friday
+2011-04-25,qld,Anzac Day
+2011-04-26,qld,Easter Monday (in Lieu)
+2011-05-02,qld,Labour Day
+2011-06-13,qld,Queens Birthday
+2011-12-25,qld,Christmas Day
+2011-12-26,qld,Christmas Holiday
+2011-12-27,qld,Christmas Holiday
+2012-01-01,qld,New Year's Day
+2012-01-02,qld,New Years Day (in lieu)
+2012-01-26,qld,Australia Day
+2012-04-06,qld,Good Friday
+2012-04-09,qld,Easter Monday
+2012-04-25,qld,Anzac Day
+2012-05-07,qld,Labour Day
+2012-06-11,qld,Queens Diamond Jubilee
+2012-10-01,qld,Queens Birthday
+2012-12-25,qld,Christmas Day
+2012-12-26,qld,Boxing Day
+2013-01-01,qld,New Year's Day
+2013-01-28,qld,Australia Day (observed)
+2013-03-29,qld,Good Friday
+2013-04-01,qld,Easter Monday
+2013-04-25,qld,Anzac Day
+2013-06-10,qld,Queens Birthday
+2013-10-07,qld,Labour Day
+2013-12-25,qld,Christmas Day
+2013-12-26,qld,Boxing Day
+2014-01-01,qld,New Year's Day
+2014-01-27,qld,Australia Day (observed)
+2014-04-18,qld,Good Friday
+2014-04-21,qld,Easter Monday
+2014-04-25,qld,Anzac Day
+2014-06-09,qld,Queens Birthday
+2014-08-13,qld,Ekka People's Day
+2014-10-06,qld,Labour Day
+2014-11-14,qld,Public Holiday
+2014-12-25,qld,Christmas Day
+2014-12-26,qld,Boxing Day
+2015-01-01,qld,New Years Day
+2015-01-26,qld,Australia Day
+2015-04-03,qld,Good Friday
+2015-04-06,qld,Easter Monday
+2015-04-25,qld,Anzac Day
+2015-06-08,qld,Queens Birthday
+2015-08-12,qld,Ekka People's Day
+2015-10-05,qld,Labour Day
+2015-12-25,qld,Christmas Day
+2015-12-26,qld,Boxing Day
+2015-12-28,qld,Boxing Day (in lieu)
+2016-01-01,qld,New Years Day
+2016-01-26,qld,Australia Day
+2016-03-25,qld,Good Friday
+2016-03-26,qld,Easter Saturday
+2016-03-28,qld,Easter Monday
+2016-04-25,qld,Anzac Day
+2016-05-02,qld,Labour Day
+2016-08-10,qld,Ekka People's Day
+2016-10-03,qld,Queens Birthday
+2016-12-25,qld,Christmas Day
+2016-12-26,qld,Boxing Day
+2016-12-27,qld,Christmas Day (in lieu)
+2017-01-01,qld,New Years Day
+2017-01-02,qld,New Years Holiday
+2017-01-26,qld,Australia Day
+2017-04-14,qld,Good Friday
+2017-04-15,qld,Easter Saturday
+2017-04-16,qld,Easter Sunday
+2017-04-17,qld,Easter Monday
+2017-04-25,qld,Anzac Day
+2017-05-01,qld,Labour Day
+2017-08-16,qld,Ekka People's Day
+2017-10-02,qld,Queens Birthday
+2017-12-25,qld,Christmas Day
+2017-12-26,qld,Boxing Day
+2018-01-01,qld,New Year's Day
+2018-01-26,qld,Australia Day
+2018-03-30,qld,Good Friday
+2018-03-31,qld,Easter Saturday
+2018-04-01,qld,Easter Sunday
+2018-04-02,qld,Easter Monday
+2018-04-25,qld,Anzac Day
+2018-05-07,qld,Labour Day
+2018-08-15,qld,Ekka People's Day
+2018-10-01,qld,Queens Birthday
+2018-12-25,qld,Christmas Day
+2018-12-26,qld,Boxing Day
+2008-01-01,nsw,New Year's Day
+2008-01-26,nsw,Australia Day
+2008-03-21,nsw,Good Friday
+2008-03-24,nsw,Easter Monday
+2008-04-25,nsw,Anzac Day
+2008-06-09,nsw,Queens Birthday
+2008-12-25,nsw,Christmas Day
+2008-12-26,nsw,Boxing Day
+2009-01-01,nsw,New Year's Day
+2009-01-26,nsw,Australia Day
+2009-04-10,nsw,Good Friday
+2009-04-13,nsw,Easter Monday
+2009-04-25,nsw,Anzac Day
+2009-06-08,nsw,Queens Birthday
+2009-12-25,nsw,Christmas Day
+2009-12-28,nsw,Boxing Day (in lieu)
+2010-01-01,nsw,New Year's Day
+2010-01-26,nsw,Australia Day
+2010-04-02,nsw,Good Friday
+2010-04-05,nsw,Easter Monday
+2010-04-25,nsw,Anzac Day
+2010-06-14,nsw,Queens Birthday
+2010-10-04,nsw,Labour Day
+2010-12-25,nsw,Christmas Day
+2010-12-26,nsw,Boxing Day
+2010-12-27,nsw,Christmas Holiday
+2010-12-28,nsw,Christmas Holiday
+2011-01-03,nsw,New Years Day (in lieu)
+2011-01-26,nsw,Australia Day
+2011-04-22,nsw,Good Friday
+2011-04-25,nsw,Anzac Day
+2011-04-26,nsw,Easter Monday (in Lieu)
+2011-06-13,nsw,Queens Birthday
+2011-10-03,nsw,Labour Day
+2011-12-25,nsw,Christmas Day
+2011-12-26,nsw,Christmas Holiday
+2011-12-27,nsw,Christmas Holiday
+2012-01-01,nsw,New Year's Day
+2012-01-02,nsw,New Years Day (in lieu)
+2012-01-26,nsw,Australia Day
+2012-04-06,nsw,Good Friday
+2012-04-09,nsw,Easter Monday
+2012-04-25,nsw,Anzac Day
+2012-06-11,nsw,Queens Birthday
+2012-10-01,nsw,Labour Day
+2012-12-25,nsw,Christmas Day
+2012-12-26,nsw,Boxing Day
+2013-01-01,nsw,New Year's Day
+2013-01-28,nsw,Australia Day (observed)
+2013-03-29,nsw,Good Friday
+2013-04-01,nsw,Easter Monday
+2013-04-25,nsw,Anzac Day
+2013-06-10,nsw,Queens Birthday
+2013-10-07,nsw,Labour Day
+2013-12-25,nsw,Christmas Day
+2013-12-26,nsw,Boxing Day
+2014-01-01,nsw,New Year's Day
+2014-01-27,nsw,Australia Day (observed)
+2014-04-18,nsw,Good Friday
+2014-04-21,nsw,Easter Monday
+2014-04-25,nsw,Anzac Day
+2014-06-09,nsw,Queens Birthday
+2014-10-06,nsw,Labour Day
+2014-12-25,nsw,Christmas Day
+2014-12-26,nsw,Boxing Day
+2015-01-01,nsw,New Years Day
+2015-01-26,nsw,Australia Day
+2015-04-03,nsw,Good Friday
+2015-04-06,nsw,Easter Monday
+2015-04-25,nsw,Anzac Day
+2015-06-08,nsw,Queens Birthday
+2015-08-03,nsw,Bank Holiday
+2015-10-05,nsw,Labour Day
+2015-12-25,nsw,Christmas Day
+2015-12-26,nsw,Boxing Day
+2015-12-28,nsw,Boxing Day (in lieu)
+2016-01-01,nsw,New Years Day
+2016-01-26,nsw,Australia Day
+2016-03-25,nsw,Good Friday
+2016-03-26,nsw,Easter Saturday
+2016-03-27,nsw,Easter Sunday
+2016-03-28,nsw,Easter Monday
+2016-04-25,nsw,Anzac Day
+2016-06-13,nsw,Queens Birthday
+2016-10-03,nsw,Labour Day
+2016-12-25,nsw,Christmas Day
+2016-12-26,nsw,Boxing Day
+2016-12-27,nsw,Christmas Day (in lieu)
+2017-01-01,nsw,New Years Day
+2017-01-02,nsw,New Years Holiday
+2017-01-26,nsw,Australia Day
+2017-04-14,nsw,Good Friday
+2017-04-15,nsw,Easter Saturday
+2017-04-16,nsw,Easter Sunday
+2017-04-17,nsw,Easter Monday
+2017-04-25,nsw,Anzac Day
+2017-06-12,nsw,Queens Birthday
+2017-10-02,nsw,Labour Day
+2017-12-25,nsw,Christmas Day
+2017-12-26,nsw,Boxing Day
+2018-01-01,nsw,New Year's Day
+2018-01-26,nsw,Australia Day
+2018-03-30,nsw,Good Friday
+2018-03-31,nsw,Easter Saturday
+2018-04-01,nsw,Easter Sunday
+2018-04-02,nsw,Easter Monday
+2018-04-25,nsw,Anzac Day
+2018-06-11,nsw,Queens Birthday
+2018-10-01,nsw,Labour Day
+2018-12-25,nsw,Christmas Day
+2018-12-26,nsw,Boxing Day
+2008-01-01,sa,New Year's Day
+2008-01-26,sa,Australia Day
+2008-03-21,sa,Good Friday
+2008-03-24,sa,Easter Monday
+2008-04-25,sa,Anzac Day
+2008-06-09,sa,Queens Birthday
+2008-12-25,sa,Christmas Day
+2009-01-01,sa,New Year's Day
+2009-01-26,sa,Australia Day
+2009-04-10,sa,Good Friday
+2009-04-13,sa,Easter Monday
+2009-04-25,sa,Anzac Day
+2009-06-08,sa,Queens Birthday
+2009-12-25,sa,Christmas Day
+2010-01-01,sa,New Year's Day
+2010-01-26,sa,Australia Day
+2010-04-02,sa,Good Friday
+2010-04-05,sa,Easter Monday
+2010-04-25,sa,Anzac Day
+2010-06-14,sa,Queens Birthday
+2010-10-04,sa,Labour Day
+2010-12-25,sa,Christmas Day
+2010-12-27,sa,Christmas Holiday
+2010-12-28,sa,Christmas Holiday
+2011-01-03,sa,New Years Day (in lieu)
+2011-01-26,sa,Australia Day
+2011-03-14,sa,Adelaide Cup
+2011-04-22,sa,Good Friday
+2011-04-25,sa,Anzac Day
+2011-04-26,sa,Easter Monday (in Lieu)
+2011-06-13,sa,Queens Birthday
+2011-10-03,sa,Labour Day
+2011-12-25,sa,Christmas Day
+2011-12-26,sa,Christmas Holiday
+2011-12-27,sa,Christmas Holiday
+2012-01-01,sa,New Year's Day
+2012-01-02,sa,New Years Day (in lieu)
+2012-01-26,sa,Australia Day
+2012-03-12,sa,Adelaide Cup
+2012-04-06,sa,Good Friday
+2012-04-09,sa,Easter Monday
+2012-04-25,sa,Anzac Day
+2012-06-11,sa,Queens Birthday
+2012-10-01,sa,Labour Day
+2012-12-25,sa,Christmas Day
+2012-12-26,sa,Proclamation Day
+2013-01-01,sa,New Year's Day
+2013-01-28,sa,Australia Day (observed)
+2013-03-11,sa,Adelaide Cup
+2013-03-29,sa,Good Friday
+2013-04-01,sa,Easter Monday
+2013-04-25,sa,Anzac Day
+2013-06-10,sa,Queens Birthday
+2013-10-07,sa,Labour Day
+2013-12-25,sa,Christmas Day
+2013-12-26,sa,Proclamation Day
+2014-01-01,sa,New Year's Day
+2014-01-27,sa,Australia Day (observed)
+2014-03-10,sa,Adelaide Cup
+2014-04-18,sa,Good Friday
+2014-04-21,sa,Easter Monday
+2014-04-25,sa,Anzac Day
+2014-06-09,sa,Queens Birthday
+2014-10-06,sa,Labour Day
+2014-12-25,sa,Christmas Day
+2014-12-26,sa,Proclamation Day
+2015-01-01,sa,New Years Day
+2015-01-26,sa,Australia Day
+2015-03-09,sa,Adelaide Cup
+2015-04-03,sa,Good Friday
+2015-04-06,sa,Easter Monday
+2015-04-25,sa,Anzac Day
+2015-06-08,sa,Queens Birthday
+2015-10-05,sa,Labour Day
+2015-12-25,sa,Christmas Day
+2015-12-28,sa,Proclamation Day
+2016-01-01,sa,New Years Day
+2016-01-26,sa,Australia Day
+2016-03-14,sa,Adelaide Cup
+2016-03-25,sa,Good Friday
+2016-03-26,sa,Easter Saturday
+2016-03-28,sa,Easter Monday
+2016-04-25,sa,Anzac Day
+2016-06-13,sa,Queens Birthday
+2016-10-03,sa,Labour Day
+2016-12-25,sa,Christmas Day
+2016-12-26,sa,Christmas Day (in lieu)
+2016-12-27,sa,Proclamation Day
+2017-01-01,sa,New Years Day
+2017-01-02,sa,New Years Holiday
+2017-01-26,sa,Australia Day
+2017-03-13,sa,Adelaide Cup
+2017-04-14,sa,Good Friday
+2017-04-15,sa,Easter Saturday
+2017-04-17,sa,Easter Monday
+2017-04-25,sa,Anzac Day
+2017-06-12,sa,Queens Birthday
+2017-10-02,sa,Labour Day
+2017-12-25,sa,Christmas Day
+2017-12-26,sa,Proclamation Day
+2018-01-01,sa,New Year's Day
+2018-01-26,sa,Australia Day
+2018-03-12,sa,Adelaide Cup
+2018-03-30,sa,Good Friday
+2018-03-31,sa,Easter Saturday
+2018-04-02,sa,Easter Monday
+2018-04-25,sa,Anzac Day
+2018-06-11,sa,Queens Birthday
+2018-10-01,sa,Labour Day
+2018-12-25,sa,Christmas Day
+2018-12-26,sa,Proclamation Day
+2008-01-01,act,New Year's Day
+2008-01-26,act,Australia Day
+2008-03-21,act,Good Friday
+2008-03-24,act,Easter Monday
+2008-04-25,act,Anzac Day
+2008-06-09,act,Queens Birthday
+2008-12-25,act,Christmas Day
+2008-12-26,act,Boxing Day
+2009-01-01,act,New Year's Day
+2009-01-26,act,Australia Day
+2009-04-10,act,Good Friday
+2009-04-13,act,Easter Monday
+2009-04-25,act,Anzac Day
+2009-06-08,act,Queens Birthday
+2009-12-25,act,Christmas Day
+2009-12-28,act,Boxing Day (in lieu)
+2010-01-01,act,New Year's Day
+2010-01-26,act,Australia Day
+2010-04-02,act,Good Friday
+2010-04-05,act,Easter Monday
+2010-04-25,act,Anzac Day
+2010-06-14,act,Queens Birthday
+2010-10-04,act,Labour Day
+2010-12-25,act,Christmas Day
+2010-12-26,act,Boxing Day
+2010-12-27,act,Christmas Holiday
+2010-12-28,act,Christmas Holiday
+2011-01-03,act,New Years Day (in lieu)
+2011-01-26,act,Australia Day
+2011-03-14,act,Canberra Day
+2011-04-22,act,Good Friday
+2011-04-25,act,Anzac Day
+2011-04-26,act,Easter Monday (in Lieu)
+2011-06-13,act,Queens Birthday
+2011-10-03,act,Labour Day
+2011-10-10,act,Family & Community Day
+2011-12-25,act,Christmas Day
+2011-12-26,act,Christmas Holiday
+2011-12-27,act,Christmas Holiday
+2012-01-01,act,New Year's Day
+2012-01-02,act,New Years Day (in lieu)
+2012-01-26,act,Australia Day
+2012-03-12,act,Canberra Day
+2012-04-06,act,Good Friday
+2012-04-09,act,Easter Monday
+2012-04-25,act,Anzac Day
+2012-06-11,act,Queens Birthday
+2012-10-01,act,Labour Day
+2012-10-08,act,Family & Community Day
+2012-12-25,act,Christmas Day
+2012-12-26,act,Boxing Day
+2013-01-01,act,New Year's Day
+2013-01-28,act,Australia Day (observed)
+2013-03-11,act,Canberra Day
+2013-03-29,act,Good Friday
+2013-04-01,act,Easter Monday
+2013-04-25,act,Anzac Day
+2013-06-10,act,Queens Birthday
+2013-09-30,act,Family & Community Day
+2013-10-07,act,Labour Day
+2013-12-25,act,Christmas Day
+2013-12-26,act,Boxing Day
+2014-01-01,act,New Year's Day
+2014-01-27,act,Australia Day (observed)
+2014-03-10,act,Canberra Day
+2014-04-18,act,Good Friday
+2014-04-21,act,Easter Monday
+2014-04-25,act,Anzac Day
+2014-06-09,act,Queens Birthday
+2014-09-29,act,Family & Community Day
+2014-10-06,act,Labour Day
+2014-12-25,act,Christmas Day
+2014-12-26,act,Boxing Day
+2015-01-01,act,New Years Day
+2015-01-26,act,Australia Day
+2015-03-09,act,Canberra Day
+2015-04-03,act,Good Friday
+2015-04-04,act,Easter Saturday
+2015-04-06,act,Easter Monday
+2015-04-25,act,Anzac Day
+2015-04-27,act,Anzac Day (observed)
+2015-06-08,act,Queens Birthday
+2015-09-28,act,Family & Community Day
+2015-10-05,act,Labour Day
+2015-12-25,act,Christmas Day
+2015-12-26,act,Boxing Day
+2015-12-28,act,Boxing Day (in lieu)
+2016-01-01,act,New Years Day
+2016-01-26,act,Australia Day
+2016-03-14,act,Canberra Day
+2016-03-25,act,Good Friday
+2016-03-26,act,Easter Saturday
+2016-03-27,act,Easter Sunday
+2016-03-28,act,Easter Monday
+2016-04-25,act,Anzac Day
+2016-06-13,act,Queens Birthday
+2016-09-26,act,Family & Community Day
+2016-10-03,act,Labour Day
+2016-12-25,act,Christmas Day
+2016-12-26,act,Boxing Day
+2016-12-27,act,Christmas Day (in lieu)
+2017-01-01,act,New Years Day
+2017-01-02,act,New Years Holiday
+2017-01-26,act,Australia Day
+2017-03-13,act,Canberra Day
+2017-04-14,act,Good Friday
+2017-04-15,act,Easter Saturday
+2017-04-16,act,Easter Sunday
+2017-04-17,act,Easter Monday
+2017-04-25,act,Anzac Day
+2017-06-12,act,Queens Birthday
+2017-09-25,act,Family & Community Day
+2017-10-02,act,Labour Day
+2017-12-25,act,Christmas Day
+2017-12-26,act,Boxing Day
+2018-01-01,act,New Year's Day
+2018-01-26,act,Australia Day
+2018-03-12,act,Canberra Day
+2018-03-30,act,Good Friday
+2018-03-31,act,Easter Saturday
+2018-04-01,act,Easter Sunday
+2018-04-02,act,Easter Monday
+2018-04-25,act,Anzac Day
+2018-06-11,act,Queens Birthday
+2018-10-01,act,Labour Day
+2018-10-08,act,Family & Community Day
+2018-12-25,act,Christmas Day
+2018-12-26,act,Boxing Day
+2008-01-01,wa,New Year's Day
+2008-01-26,wa,Australia Day
+2008-03-21,wa,Good Friday
+2008-03-24,wa,Easter Monday
+2008-04-25,wa,Anzac Day
+2008-12-25,wa,Christmas Day
+2008-12-26,wa,Boxing Day
+2009-01-01,wa,New Year's Day
+2009-01-26,wa,Australia Day
+2009-04-10,wa,Good Friday
+2009-04-13,wa,Easter Monday
+2009-04-25,wa,Anzac Day
+2009-12-25,wa,Christmas Day
+2009-12-28,wa,Boxing Day (in lieu)
+2010-01-01,wa,New Year's Day
+2010-01-26,wa,Australia Day
+2010-02-01,wa,Labour Day
+2010-04-02,wa,Good Friday
+2010-04-05,wa,Easter Monday
+2010-04-25,wa,Anzac Day
+2010-09-27,wa,Queens Birthday
+2010-12-25,wa,Christmas Day
+2010-12-26,wa,Boxing Day
+2010-12-27,wa,Christmas Holiday
+2010-12-28,wa,Christmas Holiday
+2011-01-03,wa,New Years Day (in lieu)
+2011-01-26,wa,Australia Day
+2011-03-07,wa,Labour Day
+2011-04-22,wa,Good Friday
+2011-04-25,wa,Anzac Day
+2011-04-26,wa,Easter Monday (in Lieu)
+2011-06-06,wa,Foundation Day
+2011-10-28,wa,Queens Birthday
+2011-12-25,wa,Christmas Day
+2011-12-26,wa,Christmas Holiday
+2011-12-27,wa,Christmas Holiday
+2012-01-01,wa,New Year's Day
+2012-01-02,wa,New Years Day (in lieu)
+2012-01-26,wa,Australia Day
+2012-03-05,wa,Labour Day
+2012-04-06,wa,Good Friday
+2012-04-09,wa,Easter Monday
+2012-04-25,wa,Anzac Day
+2012-06-04,wa,Western Australia Day
+2012-10-01,wa,Queens Birthday
+2012-12-25,wa,Christmas Day
+2012-12-26,wa,Boxing Day
+2013-01-01,wa,New Year's Day
+2013-01-28,wa,Australia Day (observed)
+2013-03-04,wa,Labour Day
+2013-03-29,wa,Good Friday
+2013-04-01,wa,Easter Monday
+2013-04-25,wa,Anzac Day
+2013-06-03,wa,Western Australia Day
+2013-09-30,wa,Queens Birthday
+2013-12-25,wa,Christmas Day
+2013-12-26,wa,Boxing Day
+2014-01-01,wa,New Year's Day
+2014-01-27,wa,Australia Day (observed)
+2014-03-03,wa,Labour Day
+2014-04-18,wa,Good Friday
+2014-04-21,wa,Easter Monday
+2014-04-25,wa,Anzac Day
+2014-06-02,wa,Western Australia Day
+2014-09-29,wa,Queens Birthday
+2014-12-25,wa,Christmas Day
+2014-12-26,wa,Boxing Day
+2015-01-01,wa,New Years Day
+2015-01-26,wa,Australia Day
+2015-03-02,wa,Labour Day
+2015-04-03,wa,Good Friday
+2015-04-06,wa,Easter Monday
+2015-04-25,wa,Anzac Day
+2015-04-27,wa,Anzac Day (observed)
+2015-06-01,wa,Western Australia Day
+2015-09-28,wa,Queens Birthday
+2015-12-25,wa,Christmas Day
+2015-12-26,wa,Boxing Day
+2015-12-28,wa,Boxing Day (in lieu)
+2016-01-01,wa,New Years Day
+2016-01-26,wa,Australia Day
+2016-03-07,wa,Labour Day
+2016-03-25,wa,Good Friday
+2016-03-28,wa,Easter Monday
+2016-04-25,wa,Anzac Day
+2016-06-06,wa,Western Australia Day
+2016-09-26,wa,Queens Birthday
+2016-12-25,wa,Christmas Day
+2016-12-26,wa,Boxing Day
+2016-12-27,wa,Christmas Day (in lieu)
+2017-01-01,wa,New Years Day
+2017-01-02,wa,New Years Holiday
+2017-01-26,wa,Australia Day
+2017-03-06,wa,Labour Day
+2017-04-14,wa,Good Friday
+2017-04-17,wa,Easter Monday
+2017-04-25,wa,Anzac Day
+2017-06-05,wa,Western Australia Day
+2017-09-25,wa,Queens Birthday
+2017-12-25,wa,Christmas Day
+2017-12-26,wa,Boxing Day
+2018-01-01,wa,New Year's Day
+2018-01-26,wa,Australia Day
+2018-03-05,wa,Labour Day
+2018-03-30,wa,Good Friday
+2018-04-02,wa,Easter Monday
+2018-04-25,wa,Anzac Day
+2018-06-04,wa,Western Australia Day
+2018-09-24,wa,Queens Birthday
+2018-12-25,wa,Christmas Day
+2018-12-26,wa,Boxing Day
+2008-01-01,tas,New Year's Day
+2008-01-26,tas,Australia Day
+2008-03-21,tas,Good Friday
+2008-03-24,tas,Easter Monday
+2008-04-25,tas,Anzac Day
+2008-06-09,tas,Queens Birthday
+2008-12-25,tas,Christmas Day
+2008-12-26,tas,Boxing Day
+2009-01-01,tas,New Year's Day
+2009-01-26,tas,Australia Day
+2009-04-10,tas,Good Friday
+2009-04-13,tas,Easter Monday
+2009-04-25,tas,Anzac Day
+2009-06-08,tas,Queens Birthday
+2009-12-25,tas,Christmas Day
+2009-12-28,tas,Boxing Day (in lieu)
+2010-01-01,tas,New Year's Day
+2010-01-26,tas,Australia Day
+2010-03-08,tas,Labour Day
+2010-04-02,tas,Good Friday
+2010-04-05,tas,Easter Monday
+2010-04-25,tas,Anzac Day
+2010-06-14,tas,Queens Birthday
+2010-12-25,tas,Christmas Day
+2010-12-26,tas,Boxing Day
+2010-12-27,tas,Christmas Holiday
+2010-12-28,tas,Christmas Holiday
+2011-01-03,tas,New Years Day (in lieu)
+2011-01-26,tas,Australia Day
+2011-03-14,tas,Labour Day
+2011-04-22,tas,Good Friday
+2011-04-25,tas,Anzac Day
+2011-04-26,tas,Easter Monday (in Lieu)
+2011-06-13,tas,Queens Birthday
+2011-12-25,tas,Christmas Day
+2011-12-26,tas,Christmas Holiday
+2011-12-27,tas,Christmas Holiday
+2012-01-01,tas,New Year's Day
+2012-01-02,tas,New Years Day (in lieu)
+2012-01-26,tas,Australia Day
+2012-03-12,tas,Labour Day
+2012-04-06,tas,Good Friday
+2012-04-09,tas,Easter Monday
+2012-04-25,tas,Anzac Day
+2012-06-11,tas,Queens Birthday
+2012-12-25,tas,Christmas Day
+2012-12-26,tas,Boxing Day
+2013-01-01,tas,New Year's Day
+2013-01-28,tas,Australia Day (observed)
+2013-03-11,tas,Labour Day
+2013-03-29,tas,Good Friday
+2013-04-01,tas,Easter Monday
+2013-04-25,tas,Anzac Day
+2013-06-10,tas,Queens Birthday
+2013-12-25,tas,Christmas Day
+2013-12-26,tas,Boxing Day
+2014-01-01,tas,New Year's Day
+2014-01-27,tas,Australia Day (observed)
+2014-03-10,tas,Labour Day
+2014-04-18,tas,Good Friday
+2014-04-21,tas,Easter Monday
+2014-04-25,tas,Anzac Day
+2014-06-09,tas,Queens Birthday
+2014-12-25,tas,Christmas Day
+2014-12-26,tas,Boxing Day
+2015-01-01,tas,New Years Day
+2015-01-26,tas,Australia Day
+2015-03-09,tas,Labour Day
+2015-04-03,tas,Good Friday
+2015-04-06,tas,Easter Monday
+2015-04-07,tas,Easter Tuesday
+2015-04-25,tas,Anzac Day
+2015-06-08,tas,Queens Birthday
+2015-12-25,tas,Christmas Day
+2015-12-26,tas,Boxing Day
+2015-12-28,tas,Boxing Day (in lieu)
+2016-01-01,tas,New Years Day
+2016-01-26,tas,Australia Day
+2016-03-14,tas,Labour Day
+2016-03-25,tas,Good Friday
+2016-03-28,tas,Easter Monday
+2016-03-29,tas,Easter Tuesday
+2016-04-25,tas,Anzac Day
+2016-06-13,tas,Queens Birthday
+2016-12-25,tas,Christmas Day
+2016-12-26,tas,Boxing Day
+2016-12-27,tas,Christmas Day (in lieu)
+2017-01-01,tas,New Years Day
+2017-01-02,tas,New Years Holiday
+2017-01-26,tas,Australia Day
+2017-03-13,tas,Labour Day
+2017-04-14,tas,Good Friday
+2017-04-17,tas,Easter Monday
+2017-04-18,tas,Easter Tuesday
+2017-04-25,tas,Anzac Day
+2017-06-12,tas,Queens Birthday
+2017-12-25,tas,Christmas Day
+2017-12-26,tas,Boxing Day
+2018-01-01,tas,New Year's Day
+2018-01-26,tas,Australia Day
+2018-03-12,tas,Labour Day
+2018-03-30,tas,Good Friday
+2018-04-02,tas,Easter Monday
+2018-04-03,tas,Easter Tuesday
+2018-04-25,tas,Anzac Day
+2018-06-11,tas,Queens Birthday
+2018-12-25,tas,Christmas Day
+2018-12-26,tas,Boxing Day
+2008-01-01,vic,New Year's Day
+2008-01-26,vic,Australia Day
+2008-03-21,vic,Good Friday
+2008-03-24,vic,Easter Monday
+2008-04-25,vic,Anzac Day
+2008-06-09,vic,Queens Birthday
+2008-12-25,vic,Christmas Day
+2008-12-26,vic,Boxing Day
+2009-01-01,vic,New Year's Day
+2009-01-26,vic,Australia Day
+2009-04-10,vic,Good Friday
+2009-04-13,vic,Easter Monday
+2009-04-25,vic,Anzac Day
+2009-06-08,vic,Queens Birthday
+2009-12-25,vic,Christmas Day
+2009-12-28,vic,Boxing Day (in lieu)
+2010-01-01,vic,New Year's Day
+2010-01-26,vic,Australia Day
+2010-03-08,vic,Labour Day
+2010-04-02,vic,Good Friday
+2010-04-05,vic,Easter Monday
+2010-04-25,vic,Anzac Day
+2010-06-14,vic,Queens Birthday
+2010-11-02,vic,Melbourne Cup Day
+2010-12-25,vic,Christmas Day
+2010-12-26,vic,Boxing Day
+2010-12-27,vic,Christmas Holiday
+2010-12-28,vic,Christmas Holiday
+2011-01-03,vic,New Years Day (in lieu)
+2011-01-26,vic,Australia Day
+2011-03-14,vic,Labour Day
+2011-04-22,vic,Good Friday
+2011-04-25,vic,Anzac Day
+2011-04-26,vic,Easter Monday (in Lieu)
+2011-06-13,vic,Queens Birthday
+2011-11-01,vic,Melbourne Cup Day
+2011-12-25,vic,Christmas Day
+2011-12-26,vic,Christmas Holiday
+2011-12-27,vic,Christmas Holiday
+2012-01-01,vic,New Year's Day
+2012-01-02,vic,New Years Day (in lieu)
+2012-01-26,vic,Australia Day
+2012-03-12,vic,Labour Day
+2012-04-06,vic,Good Friday
+2012-04-09,vic,Easter Monday
+2012-04-25,vic,Anzac Day
+2012-06-11,vic,Queens Birthday
+2012-11-06,vic,Melbourne Cup Day
+2012-12-25,vic,Christmas Day
+2012-12-26,vic,Boxing Day
+2013-01-01,vic,New Year's Day
+2013-01-28,vic,Australia Day (observed)
+2013-03-11,vic,Labour Day
+2013-03-29,vic,Good Friday
+2013-04-01,vic,Easter Monday
+2013-04-25,vic,Anzac Day
+2013-06-10,vic,Queens Birthday
+2013-11-05,vic,Melbourne Cup Day
+2013-12-25,vic,Christmas Day
+2013-12-26,vic,Boxing Day
+2014-01-01,vic,New Year's Day
+2014-01-27,vic,Australia Day (observed)
+2014-03-10,vic,Labour Day
+2014-04-18,vic,Good Friday
+2014-04-21,vic,Easter Monday
+2014-04-25,vic,Anzac Day
+2014-06-09,vic,Queens Birthday
+2014-11-04,vic,Melbourne Cup Day
+2014-12-25,vic,Christmas Day
+2014-12-26,vic,Boxing Day
+2015-01-01,vic,New Years Day
+2015-01-26,vic,Australia Day
+2015-03-09,vic,Labour Day
+2015-04-03,vic,Good Friday
+2015-04-06,vic,Easter Monday
+2015-04-25,vic,Anzac Day
+2015-06-08,vic,Queens Birthday
+2015-10-02,vic,Grand Final Eve
+2015-11-03,vic,Melbourne Cup Day
+2015-12-25,vic,Christmas Day
+2015-12-26,vic,Boxing Day
+2015-12-28,vic,Boxing Day (in lieu)
+2016-01-01,vic,New Years Day
+2016-01-26,vic,Australia Day
+2016-03-14,vic,Labour Day
+2016-03-25,vic,Good Friday
+2016-03-26,vic,Easter Saturday
+2016-03-27,vic,Easter Sunday
+2016-03-28,vic,Easter Monday
+2016-04-25,vic,Anzac Day
+2016-06-13,vic,Queens Birthday
+2016-09-30,vic,Grand Final Eve
+2016-11-01,vic,Melbourne Cup Day
+2016-12-25,vic,Christmas Day
+2016-12-26,vic,Boxing Day
+2016-12-27,vic,Christmas Day (in lieu)
+2017-01-01,vic,New Years Day
+2017-01-02,vic,New Years Holiday
+2017-01-26,vic,Australia Day
+2017-03-13,vic,Labour Day
+2017-04-14,vic,Good Friday
+2017-04-15,vic,Easter Saturday
+2017-04-16,vic,Easter Sunday
+2017-04-17,vic,Easter Monday
+2017-04-25,vic,Anzac Day
+2017-06-12,vic,Queens Birthday
+2017-09-29,vic,Grand Final Eve
+2017-11-07,vic,Melbourne Cup Day
+2017-12-25,vic,Christmas Day
+2017-12-26,vic,Boxing Day
+2018-01-01,vic,New Year's Day
+2018-01-26,vic,Australia Day
+2018-03-12,vic,Labour Day
+2018-03-30,vic,Good Friday
+2018-03-31,vic,Easter Saturday
+2018-04-01,vic,Easter Sunday
+2018-04-02,vic,Easter Monday
+2018-04-25,vic,Anzac Day
+2018-06-11,vic,Queens Birthday
+2018-09-28,vic,Grand Final Eve
+2018-09-28,vic,Grand Final Eve
+2018-11-06,vic,Melbourne Cup Day
+2018-12-25,vic,Christmas Day
+2018-12-26,vic,Boxing Day
+2008-01-01,nt,New Year's Day
+2008-01-26,nt,Australia Day
+2008-03-21,nt,Good Friday
+2008-03-24,nt,Easter Monday
+2008-04-25,nt,Anzac Day
+2008-06-09,nt,Queens Birthday
+2008-12-25,nt,Christmas Day
+2008-12-26,nt,Boxing Day
+2009-01-01,nt,New Year's Day
+2009-01-26,nt,Australia Day
+2009-04-10,nt,Good Friday
+2009-04-13,nt,Easter Monday
+2009-04-25,nt,Anzac Day
+2009-06-08,nt,Queens Birthday
+2009-12-25,nt,Christmas Day
+2009-12-28,nt,Boxing Day (in lieu)
+2010-01-01,nt,New Year's Day
+2010-01-26,nt,Australia Day
+2010-04-02,nt,Good Friday
+2010-04-05,nt,Easter Monday
+2010-04-25,nt,Anzac Day
+2010-06-14,nt,Queens Birthday
+2010-12-25,nt,Christmas Day
+2010-12-26,nt,Boxing Day
+2010-12-27,nt,Christmas Holiday
+2010-12-28,nt,Christmas Holiday
+2011-01-03,nt,New Years Day (in lieu)
+2011-01-26,nt,Australia Day
+2011-04-22,nt,Good Friday
+2011-04-25,nt,Anzac Day
+2011-04-26,nt,Easter Monday (in Lieu)
+2011-05-02,nt,Labour Day
+2011-06-13,nt,Queens Birthday
+2011-08-01,nt,Picnic Day
+2011-12-25,nt,Christmas Day
+2011-12-26,nt,Christmas Holiday
+2011-12-27,nt,Christmas Holiday
+2012-01-01,nt,New Year's Day
+2012-01-02,nt,New Years Day (in lieu)
+2012-01-26,nt,Australia Day
+2012-04-06,nt,Good Friday
+2012-04-09,nt,Easter Monday
+2012-04-25,nt,Anzac Day
+2012-05-07,nt,Labour Day
+2012-06-11,nt,Queens Birthday
+2012-08-06,nt,Picnic Day
+2012-12-25,nt,Christmas Day
+2012-12-26,nt,Boxing Day
+2013-01-01,nt,New Year's Day
+2013-01-28,nt,Australia Day (observed)
+2013-03-29,nt,Good Friday
+2013-04-01,nt,Easter Monday
+2013-04-25,nt,Anzac Day
+2013-05-06,nt,Labour Day
+2013-06-10,nt,Queens Birthday
+2013-08-05,nt,Picnic Day
+2013-12-25,nt,Christmas Day
+2013-12-26,nt,Boxing Day
+2014-01-01,nt,New Year's Day
+2014-01-27,nt,Australia Day (observed)
+2014-04-18,nt,Good Friday
+2014-04-21,nt,Easter Monday
+2014-04-25,nt,Anzac Day
+2014-05-05,nt,Labour Day
+2014-06-09,nt,Queens Birthday
+2014-08-04,nt,Picnic Day
+2014-12-25,nt,Christmas Day
+2014-12-26,nt,Boxing Day
+2015-01-01,nt,New Years Day
+2015-01-26,nt,Australia Day
+2015-04-03,nt,Good Friday
+2015-04-06,nt,Easter Monday
+2015-04-25,nt,Anzac Day
+2015-05-04,nt,Labour Day
+2015-06-08,nt,Queens Birthday
+2015-08-03,nt,Picnic Day
+2015-12-25,nt,Christmas Day
+2015-12-26,nt,Boxing Day
+2015-12-28,nt,Boxing Day (in lieu)
+2016-01-01,nt,New Years Day
+2016-01-26,nt,Australia Day
+2016-03-25,nt,Good Friday
+2016-03-26,nt,Easter Saturday
+2016-03-28,nt,Easter Monday
+2016-04-25,nt,Anzac Day
+2016-05-02,nt,Labour Day
+2016-06-13,nt,Queens Birthday
+2016-08-01,nt,Picnic Day
+2016-12-25,nt,Christmas Day
+2016-12-26,nt,Boxing Day
+2016-12-27,nt,Christmas Day (in lieu)
+2017-01-01,nt,New Years Day
+2017-01-02,nt,New Years Holiday
+2017-01-26,nt,Australia Day
+2017-04-14,nt,Good Friday
+2017-04-15,nt,Easter Saturday
+2017-04-17,nt,Easter Monday
+2017-04-25,nt,Anzac Day
+2017-05-01,nt,Labour Day
+2017-06-12,nt,Queens Birthday
+2017-08-07,nt,Picnic Day
+2017-12-25,nt,Christmas Day
+2017-12-26,nt,Boxing Day
+2018-01-01,nt,New Year's Day
+2018-01-26,nt,Australia Day
+2018-03-30,nt,Good Friday
+2018-03-31,nt,Easter Saturday
+2018-04-02,nt,Easter Monday
+2018-04-25,nt,Anzac Day
+2018-05-07,nt,Labour Day
+2018-06-11,nt,Queens Birthday
+2018-08-06,nt,Picnic Day
+2018-12-25,nt,Christmas Day
+2018-12-26,nt,Boxing Day
